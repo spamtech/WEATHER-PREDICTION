@@ -1,0 +1,14 @@
+Choose a city:
+1. Kolkata
+2. Delhi
+3. Mumbai
+4. Chennai
+5. Bengaluru
+6. Hyderabad
+Enter number between 1 and 6: 1
+
+📍 Location: Kolkata, West Bengal, India
+📅 Tomorrow (2025-09-14)
+🔹 Model predicted mean temp: 28.45 °C
+🔹 Open-Meteo forecast: 29.10 °C
+🔹 Difference (model - forecast): -0.65 °C
